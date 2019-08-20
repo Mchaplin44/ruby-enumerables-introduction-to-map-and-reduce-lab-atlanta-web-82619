@@ -15,3 +15,5 @@ end
 
 reduce_to_total(source_array,starting_point)
  array.reduce(0) { |sum, num| sum + num }
+ puts sum
+ end
